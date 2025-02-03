@@ -134,7 +134,7 @@ body {
     cursor: pointer;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 60px;
+    margin-bottom: 30px;
     
 }
 
@@ -157,6 +157,7 @@ body {
     font-weight: bolder;
     justify-content: space-between;
     padding: 10px;
+    margin-bottom: 0px;
     text-shadow: 1px 2px 3px black;
 }
 
@@ -171,7 +172,7 @@ body {
 }
 
 .column a {
-    color: blue;
+    color: red;
     text-decoration: none;
     font-weight: bold;
 }
